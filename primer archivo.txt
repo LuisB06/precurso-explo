@@ -1,2 +1,3 @@
 este archivo ya se encuentra en un repositorio de git
 otra modificacion de este archivo
+trecera modificacion de este archivo para confirmar el color de M
